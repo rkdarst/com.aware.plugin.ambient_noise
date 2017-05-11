@@ -57,7 +57,8 @@ repositories {
 }
 
 dependencies {
-    api "com.github.denzilferreira:aware-client:$aware_libs"
+    //api "com.github.denzilferreira:aware-client:$aware_libs"
+    api "com.github.CxAalto:aware-client:HYKS2-live-SNAPSHOT"
     implementation 'com.github.PhilJay:MPAndroidChart:v2.2.4'
     implementation 'me.franfernandez:fftpack:0.1'
 }
